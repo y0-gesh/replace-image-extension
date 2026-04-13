@@ -25,7 +25,7 @@ project-root/
 ├── public/
 │   └── attachments/             # Target folder for attachments
 ├── new_avif/                    # Put your new .avif files here
-├── migrate_avif.py              # Main script
+├── migrate_avif_files.py              # Main script
 └── README.md
 ```
 
